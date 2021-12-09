@@ -4,6 +4,8 @@ A news Flutter application.
 
 # Demo
 
+https://user-images.githubusercontent.com/56354232/145411068-aeba65a3-4a93-4457-a2c4-aa36e3516b6b.mp4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
